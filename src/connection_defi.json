@@ -1,0 +1,162 @@
+{
+    "EFICAZ": {
+        "driver": "{Oracle in OraClient19Home1}",
+        "schema": "T24DSA_OWNER",
+        "DB": "ORA_EFZ_DEV",
+        "server": "10.37.0.116",
+        "user": "T24DSA_OWNER",
+        "password": "gAAAAABiumJI7Pifi9-O384hTE2-3uxyT1DIgNmye0AnP54PDhj0JyLhM91-2IRbUuWfrQ7FM2x0PXZoIcAD0L_a69vTxuZwVQ==",
+        "port": "1521",
+        "engine": "ORACLE",
+        "service_name": "efzdev"
+    },
+    "ORA_DIH": {
+        "schema": "VPB_DIH_DB",
+        "DB": "10.37.25.30",
+        "server": "10.37.25.30",
+        "user": "bid_anmv1",
+        "password": "gAAAAABjkqqPH7RLato-1Q_fU_Oy35mY5B7forHNOVqtCvDsX5PNlh0OJtIK0fPiyx6cwHym1oeVJYIcSQWcKv0Csw4ZntoqqQ==",
+        "port": "1522",
+        "engine": "ORACLE",
+        "service_name": "dihdev"
+    },
+    "VPB_CTRL_OWNER": {
+        "driver": "{Oracle in OraClient19Home1}",
+        "schema": "VPB_CTRL_OWNER",
+        "DB": "ORA_EFZ_DEV",
+        "server": "10.37.0.116",
+        "user": "VPB_CTRL_OWNER",
+        "password": "gAAAAABiumJI7Pifi9-O384hTE2-3uxyT1DIgNmye0AnP54PDhj0JyLhM91-2IRbUuWfrQ7FM2x0PXZoIcAD0L_a69vTxuZwVQ==",
+        "port": "1521",
+        "engine": "ORACLE",
+        "service_name": "efzdev"
+    },
+    "LOSRPT_SME_OWNER": {
+        "driver": "{Oracle in OraClient19Home1}",
+        "schema": "LOSRPT_SME_OWNER",
+        "DB": "ORA_EFZ_DEV",
+        "server": "10.37.0.116",
+        "user": "LOSRPT_SME_OWNER",
+        "password": "gAAAAABiw901x3FL1iaaiHjdQ10S1xRmhH8PX-XHGgSwe7feMePE32V-86g6z0kbwsTl533FBCAUjbW7Wzhi7AIL1O_61NrvkA==",
+        "port": "1521",
+        "engine": "ORACLE",
+        "service_name": "efzdev"
+    },
+    "VPB_STAG_OTHER": {
+        "driver": "",
+        "schema": "BID_DEV_STAG_OTHERS",
+        "DB": "bludb",
+        "server": "10.36.129.30",
+        "user": "bid_anmv1",
+        "password": "gAAAAABjTNqfI9pxS9RLaUxBZsUTDJ0stt6f2uQHNpnRuwdfXTMM9QAVL3j4owvXsaVlINtwuH_142VZ58JEe69961R9J2XJyA==",
+        "port": "50000",
+        "engine": "DB2"
+    },
+    "WHR2": {
+        "driver": "ODBC Driver 17 for SQL Server",
+        "schema": "UAT_WHR2",
+        "schema_full": "UAT_WHR2.dbo",
+        "server": "10.37.24.188",
+        "user": "dev_data_bi",
+        "password": "gAAAAABiuuPtcBBg_fBW2yQX4BiehPLYKsx1Qn7nS1X-B1iiMMtiZ_hZc2FIarCXrTn-yMQdsNDhFO-s-HpNCYZdWzwi6I-eCA==",
+        "port": "1433",
+        "engine": "MSSQL"
+    },
+    "S19_DMC": {
+        "driver": "ODBC Driver 17 for SQL Server",
+        "schema": "VPB_DMC_DEV",
+        "schema_full": "VPB_DMC_DEV.dbo",
+        "server": "10.37.24.106",
+        "user": "dev_DNA",
+        "password": "gAAAAABjibNpS79WwOahBp3x3QH7Kb9HeoKwOQlbJd-BRoB7y_8_ZwDJ6aAXkCsdB7mOJqLSdkdSwpQyyRV_zaqBrSsN6Xdszw==",
+        "port": "1433",
+        "engine": "MSSQL"
+    },
+    "JAVIS": {
+        "driver": "{Oracle in OraClient19Home1}",
+        "schema": "CCAPPTEST2",
+        "DB": "",
+        "server": "10.37.8.123",
+        "user": "ccapptest2",
+        "password": "gAAAAABiz-14v0o9jGnjnpQiiz0Zo3UAyl2Dbg2mYIhzhrcLqP9a9Sl6vm3-F3dENobLCmjIM4sbxzA5exzM7xrpEc4uWmdzAg==",
+        "port": "1521",
+        "engine": "ORACLE",
+        "service_name": "digitdev"
+    },
+    "WHR2_OLD": {
+        "driver": "ODBC Driver 17 for SQL Server",
+        "schema": "VPB_WHR2",
+        "schema_full": "VPB_WHR2.dbo",
+        "server": "10.16.27.55",
+        "user": "etl_viewer",
+        "password": "gAAAAABjgeH-PbtbAYr60kMFEUdsY_VTDT9V8WyaV5OVrulsPUMtEZDkS7WAwtdXA0ulMzRS9B19kdIoGn-MCjLuQEUMnLeXHw==",
+        "port": "1433",
+        "engine": "MSSQL"
+    },
+    "WHR2_NEW": {
+        "driver": "ODBC Driver 17 for SQL Server",
+        "schema": "UPG_WHR2",
+        "schema_full": "UPG_WHR2.dbo",
+        "server": "10.16.27.55",
+        "user": "etl_viewer",
+        "password": "gAAAAABjgeH-PbtbAYr60kMFEUdsY_VTDT9V8WyaV5OVrulsPUMtEZDkS7WAwtdXA0ulMzRS9B19kdIoGn-MCjLuQEUMnLeXHw==",
+        "port": "1433",
+        "engine": "MSSQL"
+    },
+    "VPB_RAW_DATA": {
+        "schema": "VPB_RAW_DATA",
+        "server": "10.37.0.132",
+        "port": "1433",
+        "user": "uat_crmfo",
+        "password": "gAAAAABjs99dN4ZwXv3SN9WuIXuQC4mxxEkXdY0R7d0iKgHFRgMSkKwCGpbDnCJ0z1kyklpHLWTxEow28S8vuUs_eJArDgGsPA==",
+        "engine": "MSSQL",
+        "service_name": ""
+    },
+    "VPB_COLLECTION_STAGING": {
+        "schema": "VPB_COLLECTION_STAGING",
+        "server": "10.37.0.50",
+        "port": "1433",
+        "user": "bidata_dev",
+        "password": "gAAAAABjtUDZtA-rC0ktEcctxtYWawKU8dPJXBFSYzDabsNQYPxcpR-F4A4hZJOF3xT6t9nRBvMW59evjnL-5OW37vsFvDXnkQ==",
+        "engine": "MSSQL",
+        "service_name": ""
+    },
+    "OCBADMIN_210428": {
+        "schema": "OCBADMIN_210428",
+        "server": "10.37.17.61",
+        "port": "1521",
+        "user": "dev_etl",
+        "password": "gAAAAABjxmwDrSEnn-LzenAq_8FVllB8sOvVjsDYJf2BVeBiM7G81MnBEk8VOAfHbj7JJqbnX_cPpbbp_MqobgYm5H1BWKRHVA==",
+        "engine": "ORACLE",
+        "service_name": "EB19DEV"
+    },
+    "SQL_SERVER_FARM": {
+        "schema": "P3_BIC_DWH_INTF_BIC",
+        "server": "10.37.25.31",
+        "port": "1433",
+        "user": "app_iis_new",
+        "password": "gAAAAABkE9u3t26BEpo8Sw1b31q3JCKHUtRBxnnWMRpzLBrmRbm_LLLO4BrKWsr_jKviSMp1dB0cr8we16-tbAq-unEmUGbW8w==",
+        "engine": "MSSQL",
+        "service_name": ""
+    },
+    "UAT_VPB_INTF": {
+        "schema": "UAT_VPB_INTF_BU_T1",
+        "server": "10.36.129.30",
+        "port": "50000",
+        "user": "bid_nhungnt",
+        "password": "gAAAAABkFD9hqGiFGsM_zMtO-dHvhLkyGmAE2PHamqIDpfFyu85tsDLbe51xgrssMwsHbOeYsFYOgNGVVA6nhl_0wYP55gcfUg==",
+        "engine": "DB2",
+        "service_name": "BLUDB",
+        "DB": "BLUDB"
+    },
+    "REDSHIFT_TEST": {
+        "schema": "",
+        "server": "10.9.18.222",
+        "port": "5439",
+        "user": "awsuser",
+        "password": "gAAAAABkNjfAFXUaE45XWydQ2xtq6J9FNnythOX3Rbm5gboj-Mc56TuH497Jngm-dwQm_T4y7y4hy79GwipHGQKAu53jG4mxbA==",
+        "engine": "REDSHIFT",
+        "service_name": "",
+        "DB": "aws_vpb_bankwide"
+    }
+}
